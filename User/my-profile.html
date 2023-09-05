@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>User | My Profile</title>
+    <link rel="stylesheet" href="style-pr.css" />
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Roboto+Condensed&display=swap" rel="stylesheet" />
+  </head>
+
+  <body class="container">
+    <!-- Sidebar -->
+    <nav>
+      <header>
+        <div class="text">
+          <h1>Ikura Chan</h1>
+          <h2>Smk 2 Jakarta</h2>
+        </div>
+      </header>
+      <main>
+        <ul class="menu-links">
+          <li class="nav-link" id="aktif">
+            <a href="#"> My Profile </a>
+          </li>
+          <li class="nav-link">
+            <a href="Attendance.html"> Attendance Form </a>
+          </li>
+          <li class="nav-link">
+            <a href="history-absen.html"> History Absen </a>
+          </li>
+          <li class="nav-link">
+            <a href="privacy.html"> Settings & Privacy </a>
+          </li>
+        </ul>
+      </main>
+    </nav>
+    <!-- Main Content -->
+    <main class="container-content">
+      <header class="first">
+        <div class="wrapper-icon">
+          <i class="bx bx-menu"></i>
+        </div>
+        <div class="wrapper-name">
+          <div class="user-text">Lilas Ikuta</div>
+          <div class="user-profile">
+            <img src="ikura.jpg" alt="" />
+          </div>
+        </div>
+      </header>
+      <header class="second">
+        <div class="text">My Profile</div>
+      </header>
+      <main class="wrapper-content">
+        <div class="container-profile">
+          <div class="wrapper-profile">
+            <div class="profile-body">
+              <img src="ikura.jpg" alt="" />
+            </div>
+          </div>
+        </div>
+        <div class="wrapper-identity">
+          <form action="">
+            <div class="identitas">
+              <label for="nama">Nama : </label>
+              <input type="text" name="" id="" readonly />
+            </div>
+            <div class="identitas">
+              <label for="nis">NIS : </label>
+              <input type="text" name="" id="" readonly />
+            </div>
+            <div class="identitas">
+              <label for="username">Username : </label>
+              <input type="text" name="" id="" readonly />
+            </div>
+            <div class="identitas">
+              <label for="jenis-kelamin">Jenis Kelamin : </label>
+              <select name="" id="">
+                <option value="1">Pria</option>
+                <option value="2">Wanita</option>
+              </select>
+            </div>
+            <div class="identitas">
+              <label for="telepon">No. Telepon :</label>
+              <input type="tel" name="" id="" pattern="[0-9]{4}[0-9]{4}[0-9]{5}" maxlength="13" readonly />
+            </div>
+            <div class="identitas">
+              <label for="email">Email :</label>
+              <input type="email" name="" id="" readonly />
+            </div>
+            <div class="identitasInstansi" id="instansi">
+              <div class="instansiAsal">
+                <label for="Instansi">Instansi Pendidikan :</label>
+                <select name="" id="">
+                  <option value="1">Universitas</option>
+                  <option value="2">Sekolah</option>
+                </select>
+              </div>
+              <div class="instansiNama">
+                <label for="namaInstansi">Nama Instansi :</label>
+                <input type="text" name="" id="" />
+              </div>
+            </div>
+          </form>
+        </div>
+      </main>
+    </main>
+
+    <script src="script-pr.js"></script>
+  </body>
+</html>
