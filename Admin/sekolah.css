@@ -1,0 +1,526 @@
+.sekolah-univer,
+.sekolah-univer * {
+  box-sizing: border-box;
+}
+.sekolah-univer {
+  background: #ffffff;
+  width: 1531px;
+  height: 883px;
+  position: relative;
+  overflow: hidden;
+}
+.group-28 {
+  position: absolute;
+  inset: 0;
+}
+.campuran {
+  width: 1263.68px;
+  height: 800.6px;
+  position: static;
+}
+.sekolah-universitas {
+  width: 1263.68px;
+  height: 800.6px;
+  position: static;
+}
+.rectangle-2 {
+  background: linear-gradient(
+    179.87deg,
+    rgba(0, 162, 233, 1) 0%,
+    rgba(245, 245, 245, 1) 100%
+  );
+  width: 1263.68px;
+  height: 800.6px;
+  position: absolute;
+  left: 267.32px;
+  top: 127.4px;
+  box-shadow: inset 0px 4px 19px 0px rgba(0, 0, 0, 0.25);
+}
+.sekolah-universitas2 {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Rounded Mplus 1c Bold", sans-serif;
+  position: absolute;
+  left: 283.52px;
+  top: 164.95px;
+  width: 563.57px;
+  height: 54.98px;
+}
+.rectangle-20 {
+  background: #f5f5f5;
+  width: 1234.75px;
+  height: 638.34px;
+  position: absolute;
+  left: 281.2px;
+  top: 253.46px;
+}
+.rinengkuh {
+  width: 241.86px;
+  height: 144.83px;
+  position: static;
+}
+.rectangle-22 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 140, 4, 1) 22.91666716337204%,
+    rgba(192, 195, 6, 1) 100%,
+    rgba(250, 255, 0, 1) 100%
+  );
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 241.86px;
+  height: 144.83px;
+  position: absolute;
+  left: 589.02px;
+  top: 386.22px;
+}
+.rectangle-21 {
+  background: #fffbfb;
+  width: 57.86px;
+  height: 80.46px;
+  position: absolute;
+  left: 594.81px;
+  top: 410.36px;
+}
+.user-2 {
+  width: 48.6px;
+  height: 56.32px;
+  position: absolute;
+  left: 599.44px;
+  top: 427.79px;
+}
+.line-18 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 157.39px;
+  height: 0px;
+  position: absolute;
+  left: 654.99px;
+  top: 429.13px;
+  transform-origin: 0 0;
+  transform: rotate(-0.364deg) scale(1, 1);
+}
+.line-19 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 157.39px;
+  height: 0px;
+  position: absolute;
+  left: 654.99px;
+  top: 457.29px;
+  transform-origin: 0 0;
+  transform: rotate(-0.364deg) scale(1, 1);
+}
+.line-20 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 157.39px;
+  height: 0px;
+  position: absolute;
+  left: 654.99px;
+  top: 486.8px;
+  transform-origin: 0 0;
+  transform: rotate(-0.364deg) scale(1, 1);
+}
+.rinengkuh2 {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "RocknRoll One", sans-serif;
+  position: absolute;
+  left: 654.99px;
+  top: 409.02px;
+  width: 63.65px;
+  height: 18.77px;
+}
+._213731 {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "RocknRoll One", sans-serif;
+  position: absolute;
+  left: 654.99px;
+  top: 438.52px;
+  width: 48.6px;
+  height: 18.77px;
+}
+.universitas-indonesia {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "RocknRoll One", sans-serif;
+  position: absolute;
+  left: 657.3px;
+  top: 465.34px;
+  width: 159.7px;
+  height: 9.39px;
+}
+.raviz {
+  width: 241.86px;
+  height: 144.83px;
+  position: static;
+}
+.rectangle-18 {
+  background: linear-gradient(
+    180deg,
+    rgba(79, 199, 251, 1) 0%,
+    rgba(175, 251, 79, 0) 100%
+  );
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 241.86px;
+  height: 144.83px;
+  position: absolute;
+  left: 308.98px;
+  top: 386.22px;
+}
+.rectangle-19 {
+  background: #fffbfb;
+  width: 57.86px;
+  height: 80.46px;
+  position: absolute;
+  left: 314.76px;
+  top: 410.36px;
+}
+.user-1 {
+  width: 48.6px;
+  height: 56.32px;
+  position: absolute;
+  left: 319.39px;
+  top: 427.79px;
+}
+.line-15 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 157.39px;
+  height: 0px;
+  position: absolute;
+  left: 374.94px;
+  top: 429.13px;
+  transform-origin: 0 0;
+  transform: rotate(-0.364deg) scale(1, 1);
+}
+.line-16 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 157.39px;
+  height: 0px;
+  position: absolute;
+  left: 374.94px;
+  top: 457.29px;
+  transform-origin: 0 0;
+  transform: rotate(-0.364deg) scale(1, 1);
+}
+.line-17 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 157.39px;
+  height: 0px;
+  position: absolute;
+  left: 374.94px;
+  top: 484.12px;
+  transform-origin: 0 0;
+  transform: rotate(-0.364deg) scale(1, 1);
+}
+.raviz-suradamaris {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "RocknRoll One", sans-serif;
+  position: absolute;
+  left: 374.94px;
+  top: 409.02px;
+  width: 109.94px;
+  height: 18.77px;
+}
+._219283 {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "RocknRoll One", sans-serif;
+  position: absolute;
+  left: 374.94px;
+  top: 438.52px;
+  width: 48.6px;
+  height: 18.77px;
+}
+.smk-2-jakarta {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "RocknRoll One", sans-serif;
+  position: absolute;
+  left: 372.62px;
+  top: 465.34px;
+  width: 97.21px;
+  height: 18.77px;
+}
+.data-user {
+  width: 1234.75px;
+  height: 95.21px;
+  position: static;
+}
+.rectangle-5 {
+  background: rgba(189, 189, 189, 0.56);
+  width: 1234.75px;
+  height: 95.21px;
+  position: absolute;
+  left: 281.2px;
+  top: 252.12px;
+}
+.data-user2 {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Gelasio", sans-serif;
+  position: absolute;
+  left: 310.13px;
+  top: 291.01px;
+  width: 275.42px;
+  height: 56.32px;
+}
+.ven {
+  width: 266.25px;
+  height: 925px;
+  position: static;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(4, 163, 233, 1) 0%,
+    rgba(6, 164, 234, 0) 100%
+  );
+  width: 265.87px;
+  height: 925px;
+  position: absolute;
+  left: 2px;
+  top: 0px;
+  box-shadow: 0px 4px 19px 0px rgba(0, 0, 0, 0.25);
+}
+.admin {
+  width: 181.71px;
+  height: 66.22px;
+  position: static;
+}
+.admin2 {
+  color: rgba(245, 245, 245, 0.63);
+  text-align: left;
+  font: 700 16px "Rounded Mplus 1c Bold", sans-serif;
+  position: absolute;
+  left: 73.67px;
+  top: 78.45px;
+  width: 119.61px;
+  height: 34.02px;
+}
+.user-747376-1 {
+  width: 57.67px;
+  height: 65.64px;
+  position: absolute;
+  left: 11.56px;
+  top: 46.25px;
+}
+.line-1 {
+  border-style: solid;
+  border-color: rgba(15, 14, 14, 0.63);
+  border-width: 1px 0 0 0;
+  width: 266.01px;
+  height: 0px;
+  position: absolute;
+  left: 2px;
+  top: 171.34px;
+  transform-origin: 0 0;
+  transform: rotate(0.359deg) scale(1, 1);
+}
+.dashboard {
+  color: #f5f5f5;
+  text-align: left;
+  font: 700 14px "Rounded Mplus 1c Bold", sans-serif;
+  position: absolute;
+  left: 2.96px;
+  top: 150.31px;
+  width: 72.68px;
+  height: 21.02px;
+}
+.sekolah-universitas3 {
+  width: 166.38px;
+  height: 32.08px;
+  position: static;
+}
+.sekolah-universitas4 {
+  color: #f5f5f5;
+  text-align: left;
+  font: 400 12px "JejuGothic", sans-serif;
+  position: absolute;
+  left: 34.53px;
+  top: 203.52px;
+  width: 135.77px;
+  height: 17.77px;
+}
+.school-2-1 {
+  width: 28.69px;
+  height: 30px;
+  position: absolute;
+  left: 3.91px;
+  top: 189.2px;
+}
+.siswa-mahasiswa {
+  width: 143.42px;
+  height: 30.28px;
+  position: static;
+}
+.siswa-mahasiswa2 {
+  color: #f5f5f5;
+  text-align: left;
+  font: 400 12px "JejuGothic", sans-serif;
+  position: absolute;
+  left: 33.67px;
+  top: 251.06px;
+  width: 113.66px;
+  height: 18.88px;
+}
+.siswa-1 {
+  width: 27.3px;
+  height: 30px;
+  position: absolute;
+  left: 3.91px;
+  top: 239.66px;
+}
+.user {
+  width: 68.98px;
+  height: 30.74px;
+  position: static;
+}
+.users {
+  color: #f5f5f5;
+  text-align: left;
+  font: 400 12px "JejuGothic", sans-serif;
+  position: absolute;
+  left: 34.91px;
+  top: 307.29px;
+  width: 38.94px;
+  height: 17.77px;
+}
+.user-3 {
+  width: 27.3px;
+  height: 30px;
+  position: absolute;
+  left: 4.87px;
+  top: 294.32px;
+}
+.line-2 {
+  border-style: solid;
+  border-color: rgba(15, 14, 14, 0.63);
+  border-width: 1px 0 0 0;
+  width: 265.3px;
+  height: 0px;
+  position: absolute;
+  left: 2.96px;
+  top: 345.82px;
+  transform-origin: 0 0;
+  transform: rotate(0.06deg) scale(1, 1);
+}
+.line-24 {
+  border-style: solid;
+  border-color: rgba(15, 14, 14, 0.63);
+  border-width: 1px 0 0 0;
+  width: 265.3px;
+  height: 0px;
+  position: absolute;
+  left: 2px;
+  top: 453.04px;
+  transform-origin: 0 0;
+  transform: rotate(0.063deg) scale(1, 1);
+}
+.laporan-absensi {
+  color: #f5f5f5;
+  text-align: left;
+  font: 700 14px "Rounded Mplus 1c Bold", sans-serif;
+  position: absolute;
+  left: 4.87px;
+  top: 357.39px;
+  width: 136.82px;
+  height: 29.98px;
+}
+.daftar-laporan {
+  width: 158.35px;
+  height: 33.14px;
+  position: static;
+}
+.database-laporan {
+  color: #f5f5f5;
+  text-align: left;
+  font: 700 12px "Rounded Mplus 1c Bold", sans-serif;
+  position: absolute;
+  left: 34.63px;
+  top: 395.46px;
+  width: 130.5px;
+  height: 25.54px;
+}
+.print-1 {
+  width: 27.3px;
+  height: 30px;
+  position: absolute;
+  left: 6.78px;
+  top: 387.87px;
+}
+.elips {
+  width: 37.89px;
+  height: 36.64px;
+  position: static;
+}
+.panah {
+  color: #b06a6a;
+  text-align: left;
+  font: 700 12px "Rounded Mplus 1c Bold", sans-serif;
+  position: absolute;
+  left: 113.18px;
+  top: 665.16px;
+  width: 10.52px;
+  height: 25.54px;
+}
+.ellipse-1 {
+  background: rgba(244, 62, 62, 0.4);
+  border-radius: 50%;
+  width: 37.89px;
+  height: 36.64px;
+  position: absolute;
+  left: 99.5px;
+  top: 659.6px;
+}
+.admin-user {
+  width: 133.23px;
+  height: 66.23px;
+  position: static;
+}
+.admin3 {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 1383px;
+  top: calc(50% - 359.5px);
+  width: 79.85px;
+  height: 40.23px;
+}
+.w-2-removebg-preview-4 {
+  width: 53.23px;
+  height: 61.69px;
+  position: absolute;
+  left: 1463px;
+  top: 56px;
+}
+.line-14 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 50.96px;
+  height: 0px;
+  position: absolute;
+  left: 1457px;
+  top: 67px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}

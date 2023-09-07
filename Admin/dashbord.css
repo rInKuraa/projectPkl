@@ -1,0 +1,820 @@
+.dashboard,
+.dashboard * {
+  box-sizing: border-box;
+}
+.dashboard {
+  background: #ffffff;
+  width: 1457px;
+  height: 880px;
+  position: relative;
+  overflow: hidden;
+}
+.group-27 {
+  position: absolute;
+  inset: 0;
+}
+.dashbord {
+  width: 1171.98px;
+  height: 89.8px;
+  position: static;
+}
+.rectangle-3 {
+  background: #f5f5f5;
+  border-style: solid;
+  border-color: #d9d9d9;
+  border-width: 1px;
+  width: 1171.98px;
+  height: 89.8px;
+  position: absolute;
+  left: 285.02px;
+  top: 76.06px;
+  box-shadow: 0px 4px 10px 2px rgba(0, 0, 0, 0.15);
+}
+.dashboard2 {
+  color: rgba(0, 0, 0, 0.8);
+  text-align: left;
+  font: 400 30px "JejuGothic", sans-serif;
+  position: absolute;
+  left: 728.5px;
+  top: 105.64px;
+  width: 213.49px;
+  height: 57.05px;
+}
+.ven {
+  width: 282.31px;
+  height: 880px;
+  position: static;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(4, 163, 233, 1) 0%,
+    rgba(6, 164, 234, 0) 100%
+  );
+  width: 278px;
+  height: 880px;
+  position: absolute;
+  left: 7px;
+  top: 0px;
+  box-shadow: 0px 4px 19px 0px rgba(0, 0, 0, 0.25);
+}
+.admin {
+  width: 190px;
+  height: 63px;
+  position: static;
+}
+.admin2 {
+  color: rgba(245, 245, 245, 0.63);
+  text-align: left;
+  font: 700 16px "Rounded Mplus 1c Bold", sans-serif;
+  position: absolute;
+  left: 81.94px;
+  top: 74.64px;
+  width: 125.06px;
+  height: 32.36px;
+}
+.user-747376-1 {
+  width: 60.3px;
+  height: 62.45px;
+  position: absolute;
+  left: 17px;
+  top: 44px;
+}
+.line-1 {
+  border-style: solid;
+  border-color: rgba(15, 14, 14, 0.63);
+  border-width: 1px 0 0 0;
+  width: 282.31px;
+  height: 0px;
+  position: absolute;
+  left: 7px;
+  top: 163px;
+  transform-origin: 0 0;
+  transform: rotate(0.053deg) scale(1, 1);
+}
+.dashboard3 {
+  color: #f5f5f5;
+  text-align: left;
+  font: 700 14px "Rounded Mplus 1c Bold", sans-serif;
+  position: absolute;
+  left: 8px;
+  top: 143px;
+  width: 76px;
+  height: 20px;
+}
+.sekolah-universitas {
+  width: 173.97px;
+  height: 30.52px;
+  position: static;
+}
+.sekolah-universitas2 {
+  color: #f5f5f5;
+  text-align: left;
+  font: 400 12px "JejuGothic", sans-serif;
+  position: absolute;
+  left: 41.01px;
+  top: 193.62px;
+  width: 141.96px;
+  height: 16.9px;
+}
+.school-2-1 {
+  width: 30px;
+  height: 28.54px;
+  position: absolute;
+  left: 9px;
+  top: 180px;
+}
+.siswa-mahasiswa {
+  width: 149.96px;
+  height: 28.81px;
+  position: static;
+}
+.siswa-mahasiswa2 {
+  color: #f5f5f5;
+  text-align: left;
+  font: 400 12px "JejuGothic", sans-serif;
+  position: absolute;
+  left: 40.11px;
+  top: 238.85px;
+  width: 118.85px;
+  height: 17.96px;
+}
+.siswa-1 {
+  width: 28.54px;
+  height: 28.54px;
+  position: absolute;
+  left: 9px;
+  top: 228px;
+}
+.user {
+  width: 72.13px;
+  height: 29.24px;
+  position: static;
+}
+.users {
+  color: #f5f5f5;
+  text-align: left;
+  font: 400 12px "JejuGothic", sans-serif;
+  position: absolute;
+  left: 41.41px;
+  top: 292.34px;
+  width: 40.72px;
+  height: 16.9px;
+}
+.user-3 {
+  width: 28.54px;
+  height: 28.54px;
+  position: absolute;
+  left: 10px;
+  top: 280px;
+}
+.line-2 {
+  border-style: solid;
+  border-color: rgba(15, 14, 14, 0.63);
+  border-width: 1px 0 0 0;
+  width: 277.4px;
+  height: 0px;
+  position: absolute;
+  left: 8px;
+  top: 329px;
+  transform-origin: 0 0;
+  transform: rotate(0.066deg) scale(1, 1);
+}
+.line-24 {
+  border-style: solid;
+  border-color: rgba(15, 14, 14, 0.63);
+  border-width: 1px 0 0 0;
+  width: 277.4px;
+  height: 0px;
+  position: absolute;
+  left: 7px;
+  top: 431px;
+  transform-origin: 0 0;
+  transform: rotate(0.066deg) scale(1, 1);
+}
+.laporan-absensi {
+  color: #f5f5f5;
+  text-align: left;
+  font: 700 14px "Rounded Mplus 1c Bold", sans-serif;
+  position: absolute;
+  left: 10px;
+  top: 340px;
+  width: 143.06px;
+  height: 28.52px;
+}
+.daftar-laporan {
+  width: 165.57px;
+  height: 31.52px;
+  position: static;
+}
+.database-laporan {
+  color: #f5f5f5;
+  text-align: left;
+  font: 700 12px "Rounded Mplus 1c Bold", sans-serif;
+  position: absolute;
+  left: 41.11px;
+  top: 376.23px;
+  width: 136.46px;
+  height: 24.3px;
+}
+.print-1 {
+  width: 28.54px;
+  height: 28.54px;
+  position: absolute;
+  left: 12px;
+  top: 369px;
+}
+.elips {
+  width: 39.62px;
+  height: 34.86px;
+  position: static;
+}
+.panah {
+  color: #b06a6a;
+  text-align: left;
+  font: 700 12px "Rounded Mplus 1c Bold", sans-serif;
+  position: absolute;
+  left: 123.25px;
+  top: 632.8px;
+  width: 11px;
+  height: 24.3px;
+}
+.ellipse-1 {
+  background: rgba(244, 62, 62, 0.4);
+  border-radius: 50%;
+  width: 39.62px;
+  height: 34.86px;
+  position: absolute;
+  left: 108.94px;
+  top: 627.52px;
+}
+.line-23 {
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.19);
+  border-width: 1px 0 0 0;
+  width: 1055.33px;
+  height: 0px;
+  position: absolute;
+  left: 315.83px;
+  top: 721.54px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.container-content {
+  width: 1171.98px;
+  height: 717.31px;
+  position: static;
+}
+.rectangle-2 {
+  background: linear-gradient(
+    179.97deg,
+    rgba(1, 162, 233, 0.68) 0%,
+    rgba(1, 162, 233, 0) 100%
+  );
+  width: 1171.98px;
+  height: 717.31px;
+  position: absolute;
+  left: 283.92px;
+  top: 162.69px;
+  box-shadow: inset 0px 4px 19px 0px rgba(0, 0, 0, 0.25);
+}
+.group-8 {
+  width: 239.9px;
+  height: 95.08px;
+  position: static;
+}
+.rectangle-13 {
+  background: #f5f5f5;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #ffc24b;
+  border-width: 0px 0px 0px 5px;
+  width: 239.9px;
+  height: 95.08px;
+  position: absolute;
+  left: 1090.55px;
+  top: 252.48px;
+  box-shadow: 0px 4px 19px 0px rgba(0, 0, 0, 0.25);
+}
+.user2 {
+  color: #ffc24b;
+  text-align: left;
+  font: 400 12px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 1107.06px;
+  top: 264.11px;
+  width: 39.62px;
+  height: 21.13px;
+}
+._3-active-users {
+  color: #909090;
+  text-align: left;
+  font: 400 13px "Gorditas", sans-serif;
+  position: absolute;
+  left: 1107.06px;
+  top: 285.23px;
+  width: 119.95px;
+  height: 21.13px;
+}
+.th-3-removebg-preview-2 {
+  width: 18.71px;
+  height: 22.18px;
+  position: absolute;
+  left: 1294.13px;
+  top: 289.46px;
+}
+.group-11 {
+  width: 237.7px;
+  height: 95.08px;
+  position: static;
+}
+.rectangle-6 {
+  background: #f5f5f5;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #2502fd;
+  border-width: 0px 0px 0px 5px;
+  width: 237.7px;
+  height: 95.08px;
+  position: absolute;
+  left: 302.62px;
+  top: 295.8px;
+  box-shadow: 0px 4px 19px 0px rgba(0, 0, 0, 0.25);
+}
+.universitas {
+  color: rgba(0, 102, 255, 0.74);
+  text-align: left;
+  font: 400 12px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 316.93px;
+  top: 307.42px;
+  width: 89.14px;
+  height: 21.13px;
+}
+._1-universitas {
+  color: #909090;
+  text-align: left;
+  font: 400 13px "Gorditas", sans-serif;
+  position: absolute;
+  left: 316.93px;
+  top: 332.77px;
+  width: 113.35px;
+  height: 21.13px;
+}
+.th-removebg-preview-2 {
+  width: 36.31px;
+  height: 27.47px;
+  position: absolute;
+  left: 498.51px;
+  top: 332.77px;
+}
+.group-9 {
+  width: 237.7px;
+  height: 95.08px;
+  position: static;
+}
+.rectangle-23 {
+  background: #f5f5f5;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #2502fd;
+  border-width: 0px 0px 0px 5px;
+  width: 237.7px;
+  height: 95.08px;
+  position: absolute;
+  left: 302.62px;
+  top: 178.54px;
+  box-shadow: 0px 4px 19px 0px rgba(0, 0, 0, 0.25);
+}
+.sekolah {
+  color: rgba(0, 102, 255, 0.74);
+  text-align: left;
+  font: 400 12px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 316.93px;
+  top: 190.16px;
+  width: 89.14px;
+  height: 21.13px;
+}
+._1-sekolah {
+  color: #909090;
+  text-align: left;
+  font: 400 13px "Gorditas", sans-serif;
+  position: absolute;
+  left: 316.93px;
+  top: 215.51px;
+  width: 113.35px;
+  height: 21.13px;
+}
+.th-removebg-preview-4 {
+  width: 36.31px;
+  height: 27.47px;
+  position: absolute;
+  left: 498.51px;
+  top: 215.51px;
+}
+.group-12 {
+  width: 242.1px;
+  height: 95.08px;
+  position: static;
+}
+.rectangle-10 {
+  background: #f5f5f5;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: rgba(45, 233, 245, 0.74);
+  border-width: 0px 0px 0px 5px;
+  width: 241px;
+  height: 95.08px;
+  position: absolute;
+  left: 556.83px;
+  top: 295.8px;
+  box-shadow: 0px 4px 19px 0px rgba(0, 0, 0, 0.25);
+}
+.mahasiswa {
+  color: #60ebf4;
+  text-align: left;
+  font: 400 12px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 570.03px;
+  top: 307.42px;
+  width: 85.84px;
+  height: 21.13px;
+}
+._6-mahasiswa {
+  color: #909090;
+  text-align: left;
+  font: 400 13px "Gorditas", sans-serif;
+  position: absolute;
+  left: 566.73px;
+  top: 334.89px;
+  width: 104.54px;
+  height: 21.13px;
+}
+.instagram-3814049-340-removebg-preview-3 {
+  width: 35.21px;
+  height: 43.31px;
+  position: absolute;
+  left: 763.71px;
+  top: 323.27px;
+}
+.group-10 {
+  width: 242.1px;
+  height: 95.08px;
+  position: static;
+}
+.rectangle-24 {
+  background: #f5f5f5;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: rgba(45, 233, 245, 0.74);
+  border-width: 0px 0px 0px 5px;
+  width: 241px;
+  height: 95.08px;
+  position: absolute;
+  left: 556.83px;
+  top: 178.54px;
+  box-shadow: 0px 4px 19px 0px rgba(0, 0, 0, 0.25);
+}
+.siswa {
+  color: #60ebf4;
+  text-align: left;
+  font: 400 12px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 570.03px;
+  top: 189.1px;
+  width: 85.84px;
+  height: 21.13px;
+}
+._6-siswa {
+  color: #909090;
+  text-align: left;
+  font: 400 13px "Gorditas", sans-serif;
+  position: absolute;
+  left: 570.03px;
+  top: 217.62px;
+  width: 104.54px;
+  height: 21.13px;
+}
+.instagram-3814049-340-removebg-preview-4 {
+  width: 35.21px;
+  height: 43.31px;
+  position: absolute;
+  left: 763.71px;
+  top: 206px;
+}
+.content-body {
+  width: 1122.46px;
+  height: 319.04px;
+  position: static;
+}
+.rectangle-15 {
+  background: #f5f5f5;
+  border-radius: 5px;
+  width: 1121.36px;
+  height: 317.98px;
+  position: absolute;
+  left: 310.33px;
+  top: 402.5px;
+  box-shadow: 0px 4px 19px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-17 {
+  background: rgba(223, 243, 245, 0.74);
+  width: 1121.36px;
+  height: 63.39px;
+  position: absolute;
+  left: 309.23px;
+  top: 401.44px;
+}
+.informasi-user {
+  color: rgba(0, 102, 255, 0.74);
+  text-align: left;
+  font: 400 13px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 322.43px;
+  top: 420.46px;
+  width: 507.31px;
+  height: 34.86px;
+}
+.line-19 {
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.19);
+  border-width: 1px 0 0 0;
+  width: 1055.33px;
+  height: 0px;
+  position: absolute;
+  left: 314.73px;
+  top: 532.44px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.line-21 {
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.19);
+  border-width: 1px 0 0 0;
+  width: 1055.33px;
+  height: 0px;
+  position: absolute;
+  left: 315.83px;
+  top: 626.46px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.line-20 {
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.19);
+  border-width: 1px 0 0 0;
+  width: 1055.33px;
+  height: 0px;
+  position: absolute;
+  left: 314.73px;
+  top: 578.92px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.line-22 {
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.19);
+  border-width: 1px 0 0 0;
+  width: 1055.33px;
+  height: 0px;
+  position: absolute;
+  left: 316.93px;
+  top: 671.88px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.raviz {
+  width: 540.32px;
+  height: 38.03px;
+  position: static;
+}
+.ae-1-b-14-bda-495068-c-56-f-803-bd-872-d-1-c-3-c-removebg-preview-1 {
+  width: 31.91px;
+  height: 31.69px;
+  position: absolute;
+  left: 315.83px;
+  top: 489.12px;
+}
+.raviz-suradamaris {
+  color: rgba(239, 13, 13, 0.74);
+  text-align: left;
+  font: 400 13px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 348.84px;
+  top: 492.29px;
+  width: 507.31px;
+  height: 34.86px;
+}
+.smk-2-jakarta {
+  color: #b3b3b3;
+  text-align: left;
+  font: 400 10px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 348.84px;
+  top: 506.03px;
+  width: 116.65px;
+  height: 16.9px;
+}
+.rinengkuh {
+  width: 165.07px;
+  height: 31.69px;
+  position: static;
+}
+.ae-1-b-14-bda-495068-c-56-f-803-bd-872-d-1-c-3-c-removebg-preview-4 {
+  width: 31.91px;
+  height: 31.69px;
+  position: absolute;
+  left: 318.03px;
+  top: 629.63px;
+}
+.rinengkuh2 {
+  color: rgba(13, 239, 63, 0.74);
+  text-align: left;
+  font: 400 13px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 351.04px;
+  top: 632.8px;
+  width: 83.63px;
+  height: 16.9px;
+}
+.universitas-indonesia {
+  color: #b3b3b3;
+  text-align: left;
+  font: 400 10px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 351.04px;
+  top: 646.53px;
+  width: 132.05px;
+  height: 14.79px;
+}
+.ae-1-b-14-bda-495068-c-56-f-803-bd-872-d-1-c-3-c-removebg-preview-3 {
+  width: 31.91px;
+  height: 31.69px;
+  position: absolute;
+  left: 316.93px;
+  top: 583.15px;
+}
+.raviz-suradamaris2 {
+  color: rgba(239, 13, 13, 0.74);
+  text-align: left;
+  font: 400 13px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 349.94px;
+  top: 586.31px;
+  width: 507.31px;
+  height: 34.86px;
+}
+.smk-2-jakarta2 {
+  color: #b3b3b3;
+  text-align: left;
+  font: 400 10px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 349.94px;
+  top: 600.05px;
+  width: 116.65px;
+  height: 16.9px;
+}
+.ae-1-b-14-bda-495068-c-56-f-803-bd-872-d-1-c-3-c-removebg-preview-5 {
+  width: 31.91px;
+  height: 31.69px;
+  position: absolute;
+  left: 316.93px;
+  top: 678.22px;
+}
+.raviz-suradamaris3 {
+  color: rgba(239, 13, 13, 0.74);
+  text-align: left;
+  font: 400 13px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 349.94px;
+  top: 681.39px;
+  width: 507.31px;
+  height: 34.86px;
+}
+.smk-2-jakarta3 {
+  color: #b3b3b3;
+  text-align: left;
+  font: 400 10px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 349.94px;
+  top: 695.13px;
+  width: 116.65px;
+  height: 16.9px;
+}
+.ae-1-b-14-bda-495068-c-56-f-803-bd-872-d-1-c-3-c-removebg-preview-2 {
+  width: 31.91px;
+  height: 31.69px;
+  position: absolute;
+  left: 315.83px;
+  top: 536.66px;
+}
+.rinengkuh3 {
+  color: rgba(13, 239, 63, 0.74);
+  text-align: left;
+  font: 400 13px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 348.84px;
+  top: 539.83px;
+  width: 83.63px;
+  height: 16.9px;
+}
+.universitas-indonesia2 {
+  color: #b3b3b3;
+  text-align: left;
+  font: 400 10px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 348.84px;
+  top: 553.57px;
+  width: 132.05px;
+  height: 14.79px;
+}
+.jam-kerja {
+  width: 241px;
+  height: 95.08px;
+  position: static;
+}
+.rectangle-12 {
+  background: #f5f5f5;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: rgba(82, 0, 255, 0.47);
+  border-width: 0px 0px 0px 5px;
+  width: 241px;
+  height: 95.08px;
+  position: absolute;
+  left: 827.54px;
+  top: 252.48px;
+  box-shadow: 0px 4px 19px 0px rgba(0, 0, 0, 0.25);
+}
+.jam-kerja2 {
+  color: #a882fa;
+  text-align: left;
+  font: 400 12px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 848.45px;
+  top: 261.99px;
+  width: 78.13px;
+  height: 21.13px;
+}
+._1-shift {
+  color: #909090;
+  text-align: left;
+  font: 400 13px "Gorditas", sans-serif;
+  position: absolute;
+  left: 845.15px;
+  top: 291.57px;
+  width: 51.72px;
+  height: 21.13px;
+}
+._08-00-16-00 {
+  color: #909090;
+  text-align: left;
+  font: 400 13px "Gorditas", sans-serif;
+  position: absolute;
+  left: 839.65px;
+  top: 309.53px;
+  width: 86.94px;
+  height: 21.13px;
+}
+.clock-1 {
+  width: 24.21px;
+  height: 23.24px;
+  position: absolute;
+  left: 1015.72px;
+  top: 289.46px;
+}
+.admin-user {
+  width: 133.23px;
+  height: 66.23px;
+  position: static;
+}
+.admin3 {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 1313px;
+  top: calc(50% - 404px);
+  width: 79.85px;
+  height: 40.23px;
+}
+.w-2-removebg-preview-4 {
+  width: 53.23px;
+  height: 61.69px;
+  position: absolute;
+  left: 1393px;
+  top: 10px;
+}
+.line-14 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 50.96px;
+  height: 0px;
+  position: absolute;
+  left: 1387px;
+  top: 21px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
